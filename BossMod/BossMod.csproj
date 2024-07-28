@@ -87,3 +87,5 @@
     </Reference>
   </ItemGroup>
 </Project>
+    <ProjectReference Include="..\FFXIVClientStructs\InteropGenerator.Runtime\InteropGenerator.Runtime.csproj" />
+    <ProjectReference Include="..\FFXIVClientStructs\InteropGenerator\InteropGenerator.csproj" />
